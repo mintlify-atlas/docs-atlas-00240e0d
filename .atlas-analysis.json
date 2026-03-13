@@ -1,0 +1,75 @@
+{
+  "projectType": "general",
+  "projectName": "Shem Zakem Portfolio",
+  "projectDescription": "Professional portfolio showcasing strategic technical leadership across defense, aerospace, and enterprise SaaS domains.",
+  "theme": "linden",
+  "primaryColor": "#49bf9d",
+  "lightColor": "#5cc6a7",
+  "darkColor": "#3eb08f",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "introduction",
+          "professional-summary"
+        ]
+      },
+      {
+        "group": "Experience",
+        "pages": [
+          "experience/boeing",
+          "experience/expedia",
+          "experience/defense-unicorns",
+          "experience/consulting"
+        ]
+      },
+      {
+        "group": "Projects & Innovation",
+        "pages": [
+          "projects/tactical-ai-emulator",
+          "projects/green-box-batteries",
+          "projects/patent"
+        ]
+      },
+      {
+        "group": "Expertise",
+        "pages": [
+          "expertise/technical-skills",
+          "expertise/certifications",
+          "expertise/leadership"
+        ]
+      },
+      {
+        "group": "Resources",
+        "pages": [
+          "resources/contact",
+          "resources/resume"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Strategic Technical Leadership with combat veteran background",
+    "JADC2 architecture and real-time systems expertise",
+    "Multi-million dollar P&L impact across aerospace and SaaS",
+    "US Patent holder (Patent #9,276,418)",
+    "Techstars alumni and hardware startup founder",
+    "Boeing Lean Master and SAFe Agilist certifications"
+  ],
+  "publicApiSurface": [
+    "Strategic Technical Leadership",
+    "Combat Veteran (82nd Airborne)",
+    "Boeing Company - Lead Technical Product Owner",
+    "Expedia Group - Senior Product Manager",
+    "Green Box Batteries - Founder & Inventor",
+    "US Patent #9,276,418 - Battery Exchange Kiosk",
+    "Tactical AI Emulator (Air-Gapped)",
+    "JADC2 & Multi-Domain Operations",
+    "SIL/HIL/VIL Simulation",
+    "Cloud Platform Modernization",
+    "Boeing Lean Master",
+    "SAFe Agilist",
+    "Certified Scrum Master"
+  ]
+}
